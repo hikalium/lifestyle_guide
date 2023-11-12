@@ -4,6 +4,8 @@
 
 本ガイドの内容は現状や環境の変化に応じて適宜加筆訂正される。また、本バージョンには公開可能かつ（場合によっては）一般にも適用可能と思われる情報を記載する。
 
+- [figures (hikalium only)](https://app.diagrams.net/#G1xdLdmKtGAHAJpz67Gh0wlg3kDICod0yc)
+
 ## 本ガイドにおける用語の定義
 
 - 各要求事項の程度を示す用語については、[RFC 2119](https://datatracker.ietf.org/doc/html/rfc2119) およびその[日本語訳](https://www.nic.ad.jp/ja/tech/ipa/RFC2119JA.html)に基づいて記載する。
