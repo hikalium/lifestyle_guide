@@ -38,3 +38,25 @@
 
 ### 物品の購入
 - 特別な事情がない限り日中に行う（夜間は判断を誤る可能性が高いため）
+
+
+## 印象に残ったひとことたち
+
+様々な本や作品やリアルワールドから、よく思い出しがちなひとことを引用した。
+
+注: 特に記載のない限り、ここにその言葉が挙げられているという事実自体は positive / negative いずれの意味も与えない。
+
+- 「高い達成を維持している人は、低い達成の人に比べて、自己の学習についてよく監視し、進歩の状態をしっかりと評価している傾向がある」
+  - 「心理学 新版」223p - https://www.yuhikaku.co.jp/books/detail/4641053693
+- 「頭が悪くなるからこそ、仕事ができる。頭が悪くなったから、世間話ができるのです。賢かったら仕事なんてしないし、おしゃべりなんてしませんよ。もっと自分にとって有意義なことを見つけて、それを楽しむでしょう。子供を見てごらんなさい。そうしていますよ」
+  - 真賀田四季の言葉 「四季 冬」森博嗣
+- 「例示は理解の試金石」
+  - 「数学ガール」結城浩
+- 「不安は自由の眩暈である」
+  - 「不安の概念」キルケゴール
+- 「hikaliumさんのことをみんなが覚えてるのは、ちゃんと色々情報を発信したり言葉にできていてすごいなあって思ってるからですよ!」
+  - インターンで来ていた人々の言葉より https://twitter.com/hikalium/status/1559212332601208832
+- 「安全をおしのけてやるような重要な仕事はない　安全をおしのけてやるような緊急な仕事はない　安全なくしてINSの達成なし」
+  - 某電話局の壁に掲げられた標語より https://www.publickey1.jp/blog/22/ictjasst22_tokyo.html
+- "NO JOB IS SO IMPORTANT AND NO SERVICE IS SO URGENT - THAT WE CANNOT TAKE TIME TO PERFORM OUR WORK SAFELY."
+  - 上の元ネタ AT&TのSafety Policyの古いバージョン。新版: https://about.att.com/ecms/dam/csr/2019/library/corporate-responsibility/Environment-Health-Safety-Policy.pdf
