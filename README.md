@@ -127,3 +127,23 @@ https://www.nicovideo.jp/watch/sm11448603
 https://about.google/
 
 ----
+
+> 記憶なんてただの記録。書き換えてしまえばいいの。
+
+Serial Experiments Lain
+
+----
+
+> 人が信じられることは、そう多くはありません。そう…みな、自分自身のことですら、信じられないのですから…
+
+Simoun 第23話 - 永遠の少女 / ユンとオナシアの会話より
+
+----
+
+> 私は、選ばないことを選んでここにいる。
+
+Simoun アーエルの発言
+
+https://hikalium.hatenadiary.jp/entry/2022/12/19/041545
+
+----
