@@ -26,6 +26,12 @@
 
 ### 時間について
 
+人間のlifetimeは高々u32に収まる程度の秒数でしかない。
+
+![image](https://github.com/hikalium/lifestyle_guide/assets/10512779/6c3d74a2-ca8b-4e0f-bb45-49552c8d11ff)
+
+https://twitter.com/hikalium/status/1609978110824574977
+
 ```
 1y = 60*60*24*365 = 31536000s
 ```
