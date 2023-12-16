@@ -161,3 +161,11 @@ Simoun アムリアの発言
 http://croakcrawlers.blog7.fc2.com/blog-entry-8.html
 
 ----
+
+> 好きなことをする努力家はね、最強なんですよ！
+
+ブルーピリオド　美術の先生の言葉
+
+https://alu.jp/series/%E3%83%96%E3%83%AB%E3%83%BC%E3%83%94%E3%83%AA%E3%82%AA%E3%83%89/crop/V5UZyUc21cguVYkXmNid
+
+----
