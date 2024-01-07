@@ -250,3 +250,17 @@ http://croakcrawlers.blog7.fc2.com/blog-entry-8.html
 https://alu.jp/series/%E3%83%96%E3%83%AB%E3%83%BC%E3%83%94%E3%83%AA%E3%82%AA%E3%83%89/crop/V5UZyUc21cguVYkXmNid
 
 ----
+
+>　諸君よ　紺いろの地平線が膨らみ高まるときに
+>
+>　諸君はその中に没することを欲するか
+>
+>　じつに諸君はその地平線に於る
+>
+>　あらゆる形の山岳でなければならぬ
+
+宮沢賢治　生徒諸君に寄せる
+
+https://www.aozora.gr.jp/cards/000081/files/47029_46743.html
+
+----
